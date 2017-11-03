@@ -50,21 +50,21 @@ Username: team
 
 Password: classpass
 
-![Alt text](putty-login-pc.PNG)
+![Alt text](/figures_support/putty-login-pc.PNG)
 
 * Exchanges files with cluster
 
 1. Open WinSCP and login with the same credentials you used for Putty
 
-![Alt text](WinSCPlogin-pc.PNG)
+![Alt text](/figures_support/WinSCPlogin-pc.PNG)
 
 2. WinSCP provides a save file exchange platform between your laptop and the remote linux machine. The left window is your laptop, the right window is the remote linux machine you logged in (in this case it is s06.intrans.iastate.edu which we also call it "local" or "server" or "cluster" in different situations.....) You can upload files from your laptop to the cluster by simply dragging and dropping files to the right window, and you can download files to you laptop from the cluster by simply dragging and dropping files from the right window. 
 
-![Alt text](WinSCPmachine-pc.PNG)
+![Alt text](/figures_support/WinSCPmachine-pc.png)
 
 The "Local" or "server" is not actually HDFS and the two folders you have seen are not in HDFS.You can peek the files in HDFS by typing "hdfs dfs -ls" in Putty command line.
 
-![Alt text](putty-hdfs-pc.PNG)
+![Alt text](/figures_support/putty-hdfs-pc.PNG)
 
 ## Mac
 
