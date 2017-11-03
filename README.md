@@ -22,6 +22,6 @@ Download link: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 Download the 32-bit or 64-bit based on your system architecture
 
-(/figures_support/Putty-download.PNG)
+![Alt text](/figures_support/Putty-download.PNG)
 
 
