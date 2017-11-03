@@ -17,9 +17,11 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
 ## Windows:
 
 1. Putty: 
+
 Download link: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
 Download the 32-bit or 64-bit based on your system architecture
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+(/figures_support/Putty-download.PNG)
+
 
